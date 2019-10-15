@@ -17,7 +17,7 @@ Web-API with NodeJS And ``MONGODB`` using the following Dependencies :
 
 **1. Downloading the code**
 
-- Clone the repo : https://github.com/FerPC92/Web-Api-NodeJS.git .
+- Clone the repo : https://github.com/FerPC92/Web-Api-NodeJS-MongoDB.git .
 
 **2. Install dependencies**
 
@@ -51,7 +51,7 @@ Snippet Example:
 
 <img src="./assets/import.png">
 
-Select Input File Type as JSON and Browse from the ``MongoCollections`` Folder the ``usersschema`` file and import it.
+Select Input File Type as JSON and Browse from the ``MongoCollections`` Folder, the ``usersschema`` file and import it.
 
 This is going to be to collection ones you import the Json data
 
@@ -431,3 +431,6 @@ This is going to be to collection ones you import the Json data
 
     {"message": "Policy Can't Be Found, check data and try again"}
 
+# License
+
+GNU general license.
